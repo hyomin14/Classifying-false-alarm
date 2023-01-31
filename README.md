@@ -13,7 +13,7 @@ SW 신뢰성 시험은 SW가 동작할 수 있는 다양한 경우의 수를 확
 
 ## Getting Started
 1. repository clone
-2. https://drive.google.com/drive/folders/1BkqbZemq9QiauJZGLfQPWwhrg_xh_2Ns 에서 models 폴더 다운로드 후, 압축 파일 내 models 폴더를 해당 폴더로 이동
+2. https://drive.google.com/drive/folders/1BkqbZemq9QiauJZGLfQPWwhrg_xh_2Ns 에서 models 폴더 다운로드 후, 압축 파일 내 models 폴더를 clone한 'Classifying-false-alarm' 폴더로 이동
 > 폴더 용량 이슈로 google drive를 통해 다운로드
 3. pip install -r requirements.txt 를 통해 필요한 모듈 설치
 4. python app.py 명령어로 프로젝트를 실행 후, http://localhost:7860/ 접속
